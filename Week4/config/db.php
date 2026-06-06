@@ -1,4 +1,8 @@
 <?php
+// ============================================
+// Faraj Fruit Supplier and Vendor
+// Week 4 – Database Connection
+// ============================================
 $conn = mysqli_connect("localhost", "root", "", "faraj_db");
 
 if (!$conn) {
